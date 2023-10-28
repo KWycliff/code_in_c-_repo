@@ -1,0 +1,9 @@
+#include <iostream>
+
+int main(){
+    std:: int x;
+    std:: cout << "enter any number of choice: ";
+    std:: cin >> x;
+    std:: cout << "your number of choice is: ";
+    return 0;
+}
