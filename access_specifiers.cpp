@@ -23,7 +23,7 @@ class Employee{
     public :
     //seter
     void setsalary(int s){
-        salary = s; 
+        salary = s;
     }
     // getter
     int getsalary(){
@@ -38,6 +38,26 @@ int main(){
 
     Employee myobj;
     myobj.setsalary(15000000);
-    cout << myobj.getsalary();
+    cout << myobj.getsalary() << "\n";
+
+    int facto = 1;
+
+    for(int i = 5; i>1; i--){
+        facto = facto * i;
+    }
+    cout << facto << "\n";
+
+    // fibonnacci series
+    int num1 = 0;
+    int num2 = 1;
+    int fibbo;
+
+    for(int i = 0; i<50; i++){
+        fibbo = num2;
+        num2 = num1 + num2;
+        cout << fibbo << "\n";
+        num1 = fibbo;
+    }
+
     return 0;
 }
