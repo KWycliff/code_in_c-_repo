@@ -1,0 +1,23 @@
+{
+  "configurations": [
+    {
+      "name": "STM32",
+      "includePath": [
+        "Core/Inc",
+        "Drivers/CMSIS/Device/ST/STM32G0xx/Include",
+        "Drivers/CMSIS/Include",
+        "Drivers/STM32G0xx_HAL_Driver/Inc",
+        "Drivers/STM32G0xx_HAL_Driver/Inc/Legacy",
+        "Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS",
+        "Middlewares/Third_Party/FreeRTOS/Source/include",
+        "Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM0"
+      ],
+      "defines": [
+        "STM32G070xx",
+        "USE_HAL_DRIVER"
+      ],
+      "compilerPath": "C:\\MSYS64\\MINGW64\\BIN\\ARM-NONE-EABI-GCC.EXE"
+    }
+  ],
+  "version": 4
+}

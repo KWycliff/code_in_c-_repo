@@ -1,0 +1,6 @@
+../modbus/port/portserial.c:34:1:vMBPortSerialEnable	16	static
+../modbus/port/portserial.c:42:1:xMBPortSerialInit	24	static
+../modbus/port/portserial.c:48:1:xMBPortSerialPutByte	16	static
+../modbus/port/portserial.c:57:1:xMBPortSerialGetByte	16	static
+../modbus/port/portserial.c:71:13:prvvUARTTxReadyISR	8	static
+../modbus/port/portserial.c:81:13:prvvUARTRxISR	8	static
