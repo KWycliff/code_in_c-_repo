@@ -1,0 +1,9 @@
+../Core/Src/main.c:70:5:main	1
+../Core/Src/main.c:124:6:SystemClock_Config	3
+../Core/Src/main.c:170:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:218:13:MX_GPIO_Init	1
+../Core/Src/main.c:245:1:eMBRegInputCB	4
+../Core/Src/main.c:273:1:eMBRegHoldingCB	1
+../Core/Src/main.c:281:1:eMBRegCoilsCB	1
+../Core/Src/main.c:288:1:eMBRegDiscreteCB	1
+../Core/Src/main.c:299:6:Error_Handler	1

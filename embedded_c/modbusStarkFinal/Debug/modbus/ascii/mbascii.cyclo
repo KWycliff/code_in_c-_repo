@@ -1,0 +1,11 @@
+../modbus/ascii/mbascii.c:107:1:eMBASCIIInit	3
+../modbus/ascii/mbascii.c:130:1:eMBASCIIStart	1
+../modbus/ascii/mbascii.c:142:1:eMBASCIIStop	1
+../modbus/ascii/mbascii.c:151:1:eMBASCIIReceive	3
+../modbus/ascii/mbascii.c:184:1:eMBASCIISend	2
+../modbus/ascii/mbascii.c:221:1:xMBASCIIReceiveFSM	13
+../modbus/ascii/mbascii.c:330:1:xMBASCIITransmitFSM	9
+../modbus/ascii/mbascii.c:410:1:xMBASCIITimerT1SExpired	3
+../modbus/ascii/mbascii.c:434:1:prvucMBCHAR2BIN	5
+../modbus/ascii/mbascii.c:451:1:prvucMBBIN2CHAR	3
+../modbus/ascii/mbascii.c:471:1:prvucMBLRC	2
