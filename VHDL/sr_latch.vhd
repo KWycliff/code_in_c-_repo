@@ -7,7 +7,7 @@ entity sr_latch is
         s : in std_logic;
         r : in std_logic;
         q : out std_logic;
-        qn: out std_logic; 
+        qn: out std_logic
     );
 end entity sr_latch;
 
@@ -20,10 +20,10 @@ begin
     if s = '0' and r= '1' then
         qt <= '0';
         qtn<= '1';
-    elif s = '1' and r = 0 then
+    elsif s = '1' and r = '0' then
         qt <= '1';
-        qtn<= '0'
-    elif s = '1' and r = '1' then
+        qtn<= '0';
+    elsif s = '1' and r = '1' then
         qt <= '0';
         qtn <= '1';
     end if;
