@@ -1,0 +1,6 @@
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/oop/build/CMakeFiles/main.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/oop/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/oop/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/oop/build/components/CMakeFiles/lib.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/oop/build/components/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/oop/build/components/CMakeFiles/rebuild_cache.dir

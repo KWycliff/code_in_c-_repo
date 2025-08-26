@@ -1,6 +1,7 @@
 {
     "files.associations": {
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "rectangle.h": "c"
     },
     "idf.pythonInstallPath": "C:\\Users\\Asus\\.espressif\\tools\\idf-python\\3.11.2\\python.exe"
 }
