@@ -1,8 +1,13 @@
 
 // arrays and pointers
 #include <stdio.h>
+#include <stdlib.h>
+#include <disp_func/display_func.h>
 
 int main(){ 
+    int c = add(30,50); //display_txt();
+    printf("\n the sum is %d \n", c);
+
     int arr[4];  // array
     int i; // index
 
@@ -28,5 +33,8 @@ int main(){
     printf("index 2: %d \n", *aptr);
     printf("index 1: %d \n", *(aptr-1));
     printf("index 3: %d \n", *(aptr+1));
+
+    disp_s();
+
     return 0;
 }

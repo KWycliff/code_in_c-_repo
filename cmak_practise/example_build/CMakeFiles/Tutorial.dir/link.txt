@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/Tutorial.dir/array_pointers.c.o -o Tutorial  liblib.a 

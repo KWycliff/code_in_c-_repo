@@ -1,0 +1,8 @@
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/cmak_practise/example_build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/cmak_practise/example_build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/cmak_practise/example_build/main_prog/CMakeFiles/Tutorial.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/cmak_practise/example_build/main_prog/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/cmak_practise/example_build/main_prog/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/cmak_practise/example_build/disp_func/CMakeFiles/lib.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/cmak_practise/example_build/disp_func/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Asus/Desktop/code_in_c-_repo/cmak_practise/example_build/disp_func/CMakeFiles/rebuild_cache.dir
